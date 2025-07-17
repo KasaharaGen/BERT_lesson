@@ -8,6 +8,6 @@
   4, BERTによるファインチューニング\
   5, モデルの評価\
 ## 加えてリポジトリ内の論文も呼んでください
-  Attension is all you need (attentionに関する論文)
-  BERT (BERTに関する論文)
+  Attension is all you need (attentionに関する論文)\
+  BERT (BERTに関する論文)\
   Feature Extraction and Ensemble Learningfor the Detection of Dengue Fever (先行研究) 
