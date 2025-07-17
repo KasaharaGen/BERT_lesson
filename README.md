@@ -7,9 +7,11 @@
   3, テキスト分類の前処理\
   4, BERTによるファインチューニング\
   5, モデルの評価\
-## 加えてリポジトリ内の論文も呼んでください
+## 加えてリポジトリ内の論文も読んでください
   Attension is all you need (attentionに関する論文)\
   BERT (BERTに関する論文)\
   Feature Extraction and Ensemble Learningfor the Detection of Dengue Fever (先行研究) 
 ## 補足
-　作成した仮想環境内に必要に応じて適切なライブラリをインストールすること。またエラーが起きた場合はgoogleや生成AIを用いて調べること
+　作成した仮想環境内に必要に応じて適切なライブラリをインストールすること。\
+  またエラーが起きた場合はgoogleや生成AIを用いて調べること\
+  資料は随時追加していく
