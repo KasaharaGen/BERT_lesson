@@ -11,3 +11,5 @@
   Attension is all you need (attentionに関する論文)\
   BERT (BERTに関する論文)\
   Feature Extraction and Ensemble Learningfor the Detection of Dengue Fever (先行研究) 
+## 補足
+　作成した仮想環境内に必要に応じて適切なライブラリをインストールすること。またエラーが起きた場合はgoogleや生成AIを用いて調べること
